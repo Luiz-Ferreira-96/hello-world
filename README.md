@@ -2,4 +2,4 @@
 
 Hello World!
 
-This just to start on Git.
+This is just to get started on Git.
